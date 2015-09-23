@@ -1,0 +1,10 @@
+body{
+	background-color: green;
+}
+.header{
+	color: red;
+}
+.text{
+	color: white;
+	font-style: italic;
+}
